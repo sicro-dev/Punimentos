@@ -1,0 +1,16 @@
+name: punimentos
+version: '1.0.0'
+main: br.com.sicro.punimentos.Main
+commands:
+  cban:
+    description: "Plugin para banir jogadores."
+  unban:
+    description: "Plugin para desbanir jogadores banidos."
+  mute:
+    description: "Plugin feito para mutar jogadores."
+  ckick:
+    description: "Plugin feito para kickar qualquer jogador do servidor."
+  tempban:
+    description: "Banimento temporário."
+  tempmute:
+    description: "Plugin para mute temporário."
