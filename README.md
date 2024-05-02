@@ -1,4 +1,4 @@
-# punições
+# Punições
 Plugin de punições completo para servidores de minecraft.
 
 - cBan: Para banimento permanentes.
